@@ -1,0 +1,26 @@
+body{
+    background-color: lightskyblue;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+}
+
+.header_div{
+background-color: slategrey;
+color: black;
+}
+.header_div p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: crimson;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.copy_right_footer{
+    position: fixed;
+    color: darkslategray;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: gold;
+    text-shadow: 5px 5px 5px rgb(69, 1, 228);
+}
